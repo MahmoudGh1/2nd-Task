@@ -1,0 +1,9 @@
+Hello, World
+First Line: mkdir "VC Session 1 Day 1 12-02-2026"
+Second Line: cd "VC Session 1 Day 1 12-02-2026"
+Third Line: touch text.txt
+Fourth Line: vi text.txt
+Fifth Line: git status
+Sixth Line: git add .
+Seventh Line: mkdir "VC Session 1 Day 1 12-02-2026"
+Eighth Line: mkdir "VC Session 1 Day 1 12-02-2026i
