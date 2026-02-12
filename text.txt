@@ -6,4 +6,8 @@ Fourth Line: vi text.txt
 Fifth Line: git status
 Sixth Line: git add .
 Seventh Line: git commit -m "initial Commit"
-Eighth Line: mkdir "VC Session 1 Day 1 12-0
+Eighth Line: git status
+ninth Line: git log
+Tenth Line: git remote add repoName https://github.com/MahmoudGh1/2nd-Task.git
+Eleventh Line: git branch -M main
+Twelfth Line: git push -u repoName main
