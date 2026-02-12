@@ -5,5 +5,5 @@ Third Line: touch text.txt
 Fourth Line: vi text.txt
 Fifth Line: git status
 Sixth Line: git add .
-Seventh Line: mkdir "VC Session 1 Day 1 12-02-2026"
-Eighth Line: mkdir "VC Session 1 Day 1 12-02-2026i
+Seventh Line: git commit -m "initial Commit"
+Eighth Line: mkdir "VC Session 1 Day 1 12-0
